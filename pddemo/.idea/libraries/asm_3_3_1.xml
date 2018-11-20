@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="asm-3.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../tom/tom-space/vip-20180303/gupaoedu-vip-pattern-proxy/lib/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tom/tom-space/vip-20180303/gupaoedu-vip-pattern-proxy/lib/cglib-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
